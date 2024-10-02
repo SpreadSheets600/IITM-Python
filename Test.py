@@ -1,5 +1,3 @@
-E_1 = False
-E_2 = True
-E_3 = not (E_1 or E_2)
-E_4 = (not E_1) and (not E_2)
-print(E_3 == E_4)
+time = '02 AM'
+is_time_valid = True if ( int(time[0:2]) >= 1 and int(time[0:2]) <= 12 ) else False
+print(is_time_valid)
