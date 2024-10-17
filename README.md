@@ -50,6 +50,6 @@ The files in this repository are organized week-wise. Each folder represents a w
 ## 💬 Contact
 
 Feel free to reach out if you have any questions or suggestions!  
-**LinkedIn**: [Soham Maity](https://www.linkedin.com/in/soham-maity-114466218)
-**Discord**: [SpreadSheets600](https://discord.com/users/727012870683885578)
-**Email**: [sohammaity239@gmail.com](mailto:sohammaity239@gmail.com)
+- **LinkedIn** : [Soham Maity](https://www.linkedin.com/in/soham-maity-114466218)
+- **Discord** : [SpreadSheets600](https://discord.com/users/727012870683885578)
+- **Email** : [sohammaity239@gmail.com](mailto:sohammaity239@gmail.com)
