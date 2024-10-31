@@ -46,6 +46,20 @@ The files in this repository are organized week-wise. Each folder represents a w
   - [Chapter 1](./Notes/Section%203/Chapter%201.md)
   - [Chapter 2](./Notes/Section%203/Chapter%202.md)
   - [Chapter 3](./Notes/Section%203/Chapter%203.md)
+  - [Chapter 4](./Notes/Section%203/Chapter%204.md)
+  - [Chapter 5](./Notes/Section%203/Chapter%205.md)
+  - [Chapter 6](./Notes/Section%203/Chapter%206.md)
+- **[Section 4](./Notes/Section%204/)**
+  - [Chapter 1](./Notes/Section%204/Chapter%201.md)
+  - [Chapter 2](./Notes/Section%204/Chapter%202.md)
+  - [Chapter 3](./Notes/Section%204/Chapter%203.md)
+  - [Chapter 4](./Notes/Section%204/Chapter%204.md)
+- **[Section 5](./Notes/Section%205/)**
+  - [Chapter 1](./Notes/Section%205/Chapter%201.md)
+  - [Chapter 2](./Notes/Section%205/Chapter%202.md)
+  - [Chapter 3](./Notes/Section%205/Chapter%203.md)
+  - [Chapter 4](./Notes/Section%205/Chapter%204.md)
+  - [Chapter 5](./Notes/Section%205/Chapter%205.md)
 
 ---
 
