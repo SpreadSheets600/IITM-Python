@@ -25,6 +25,11 @@ The files in this repository are organized week-wise. Each folder represents a w
 - **[Week 4 Solutions](./Sollutions/WEEK%204/)**
 - **[Week 5 Solutions](./Sollutions/WEEK%205/)**
 - **[Week 6 Solutions](./Sollutions/WEEK%206/)**
+- **[Week 7 Solutions](./Sollutions/WEEK%207/)**
+- **[Week 8 Solutions](./Sollutions/WEEK%208/)**
+- **[Week 9 Solutions](./Sollutions/WEEK%209/)**
+- **[Week 10 Solutions](./Sollutions/WEEK%2010/)**
+- **[Week 11 Solutions](./Sollutions/WEEK%2011/)**
 
 ---
 
